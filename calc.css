@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.container{
+    height: 530px;
+    width: 355px;
+    padding: 10px 5px;
+    margin: 6% 38%;
+    background-color: rgb(44, 43, 43);
+    border-radius: 10px;
+    
+}
+form{
+    padding-left: 10px;
+}
+.display{
+    color: black;
+    background-color: rgb(203, 199, 199);
+}
+input{
+    font-size: 25px;
+    padding: 10px;
+    text-align: right;
+    margin-bottom: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.button{
+    width: 80px;
+    height: 70px;
+    position: relative;
+    font-size: 25px;
+    font-style: bold;
+    text-align: center;
+    cursor: pointer;
+    background: transparent;
+    border-radius: 20px;
+}
+.button1{
+    width: 80px;
+    height: 70px;
+    position: relative;
+    font-size: 25px;
+    font-style: bold;
+    text-align: center;
+    cursor: pointer;
+    background: transparent;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    background-color: orange;
+}
+.button:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(194, 181, 181);
+}
+
+
+.equal{
+    width: 165px;
+    height: 70px;
+    background: transparent;
+    text-align: center;
+    cursor: pointer;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: orange;
+    color: black;
+}
+/* .equal:hover{
+    color: black;
+    background-color: rgb(255, 255, 255);
+} */
